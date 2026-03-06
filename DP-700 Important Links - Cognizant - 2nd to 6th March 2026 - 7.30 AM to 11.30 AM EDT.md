@@ -49,13 +49,13 @@ Course URL: - [**https://learn.microsoft.com/training/courses/dp-700t00?WT.mc\_i
 
 **4) Important Links:**
 
-**Microsoft Fabric URL -** [**https://app.fabric.microsoft.com/**](https://app.fabric.microsoft.com/)
+Microsoft Fabric URL - [**https://app.fabric.microsoft.com/**](https://app.fabric.microsoft.com/)
 
-**DP-700 Homepage to Schedule Exam and Practice Questions -** [**https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/?practice-assessment-type=certification**](https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/?practice-assessment-type=certification)
+DP-700 Homepage to Schedule Exam and Practice Questions - [**https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/?practice-assessment-type=certification**](https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/?practice-assessment-type=certification)
 
-**Microsoft Fabric Labs -** [**https://microsoftlearning.github.io/mslearn-fabric/**](https://microsoftlearning.github.io/mslearn-fabric/)
+Microsoft Fabric Labs - [**https://microsoftlearning.github.io/mslearn-fabric/**](https://microsoftlearning.github.io/mslearn-fabric/)
 
-**Microsoft Applied Skills -** [**https://learn.microsoft.com/en-us/credentials/browse/?credential\_types=applied%20skills**](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
+Microsoft Applied Skills - [**https://learn.microsoft.com/en-us/credentials/browse/?credential\_types=applied%20skills**](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
 
 
@@ -87,6 +87,7 @@ Fabric Data Factory Activity overview - [**https://learn.microsoft.com/en-us/fab
 Mail – [**prabhakars@cloudthat.com**](prabhakars@cloudthat.com)
 
 LinkedIn - [**https://www.linkedin.com/in/prabhakar-kumar-singh-142b691a2**](https://www.linkedin.com/in/prabhakar-kumar-singh-142b691a2)
+
 
 
 
