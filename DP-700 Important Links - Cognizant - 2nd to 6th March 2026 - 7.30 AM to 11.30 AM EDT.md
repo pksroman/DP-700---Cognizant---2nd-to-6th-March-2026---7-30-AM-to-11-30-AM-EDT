@@ -80,6 +80,9 @@ Direct Lake Performance - [**https://learn.microsoft.com/en-us/fabric/fundamenta
 
 Fabric Data Factory Activity overview - [**https://learn.microsoft.com/en-us/fabric/data-factory/activity-overview**](https://learn.microsoft.com/en-us/fabric/data-factory/activity-overview)
 
+Inbound network protection in Microsoft Fabric - **https://learn.microsoft.com/en-us/fabric/security/security-inbound-overview**
+ 
+Protect workspaces by using IP firewall rules - **https://learn.microsoft.com/en-us/fabric/security/security-workspace-level-firewall-overview**
 
 
 **6) Contact Details:**
@@ -87,6 +90,7 @@ Fabric Data Factory Activity overview - [**https://learn.microsoft.com/en-us/fab
 Mail – [**prabhakars@cloudthat.com**](prabhakars@cloudthat.com)
 
 LinkedIn - [**https://www.linkedin.com/in/prabhakar-kumar-singh-142b691a2**](https://www.linkedin.com/in/prabhakar-kumar-singh-142b691a2)
+
 
 
 
