@@ -62,7 +62,7 @@ Course URL: - [**https://learn.microsoft.com/training/courses/dp-700t00?WT.mc\_i
 
 **5) Links associated with questions asked in the session**
 
-Json Data in Azure Event Hub for Event stream tutorial - [**https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-azure-event-hubs?pivots=basic-features**](Json Data in Azure Evhttps://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-azure-event-hubs?pivots=basic-features)
+Json Data in Azure Event Hub for Event stream tutorial - [**https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-azure-event-hubs?pivots=basic-features**]
 
 Data frame functions reference link - [**https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/api/pyspark.sql.DataFrame.html**](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/api/pyspark.sql.DataFrame.html)
 
@@ -71,8 +71,6 @@ Spark structured streaming supported file formats are text, CSV, JSON, ORC, Parq
 Warehouse Performance Guidelines - [**https://learn.microsoft.com/en-us/fabric/data-warehouse/guidelines-warehouse-performance**](https://learn.microsoft.com/en-us/fabric/data-warehouse/guidelines-warehouse-performance)
 
 Optimize Fabric Capacity - [**https://learn.microsoft.com/en-us/fabric/enterprise/optimize-capacity**](https://learn.microsoft.com/en-us/fabric/enterprise/optimize-capacity)
-
-Delta Lake Optimization - [**https://learn.microsoft.com/en-us/azure/databricks/delta/optimizations**](https://learn.microsoft.com/en-us/azure/databricks/delta/optimizations-oss)
 
 PySpark Performance Tuning - [**https://spark.apache.org/docs/latest/sql-performance-tuning.html**](https://spark.apache.org/docs/latest/sql-performance-tuning.html)
 
@@ -89,6 +87,7 @@ Fabric Data Factory Activity overview - [**https://learn.microsoft.com/en-us/fab
 Mail – [**prabhakars@cloudthat.com**](prabhakars@cloudthat.com)
 
 LinkedIn - [**https://www.linkedin.com/in/prabhakar-kumar-singh-142b691a2**](https://www.linkedin.com/in/prabhakar-kumar-singh-142b691a2)
+
 
 
 
