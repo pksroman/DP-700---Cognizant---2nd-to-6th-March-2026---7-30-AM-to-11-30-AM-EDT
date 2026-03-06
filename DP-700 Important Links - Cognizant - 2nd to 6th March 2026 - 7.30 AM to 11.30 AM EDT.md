@@ -14,6 +14,7 @@ Click Redeem Training Key - **3AED34206466406D**
 Click View Agreement and Accept the agreement and then Launch the lab
 
 
+
 **2) Recording Access:**
 
 Using this link Register for the Test Prep using Corporate Mail ID (Cognizant Mail ID) if not done previously -
@@ -34,6 +35,7 @@ Recordings cannot be downloaded, It is view only.
 The recording access will be there for 30 days after the last day of the training.
 
 
+
 **3) Achievement and Course URL:**
 
 Click on **Redeem** after Signing In with your **Personal Account for Achievement URL**
@@ -41,6 +43,8 @@ Click on **Redeem** after Signing In with your **Personal Account for Achievemen
 Achievement Code URL: - [**https://learn.microsoft.com/en-us/users/prabhakarkumarsingh-3644/achievements?redeem=6NJ9P3\&WT.mc\_id=ilt\_partner\_webpage\_wwl**](https://learn.microsoft.com/en-us/users/prabhakarkumarsingh-3644/achievements?redeem=6NJ9P3&WT.mc_id=ilt_partner_webpage_wwl)
 
 Course URL: - [**https://learn.microsoft.com/training/courses/dp-700t00?WT.mc\_id=ilt\_partner\_webpage\_wwl\&ocid=4428290\&DCS=DEPR2620519#study-guide**](https://learn.microsoft.com/training/courses/dp-700t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=4428290&DCS=DEPR2620519#study-guide)
+
+
 
 
 **4) Important Links:**
@@ -52,6 +56,8 @@ Course URL: - [**https://learn.microsoft.com/training/courses/dp-700t00?WT.mc\_i
 **Microsoft Fabric Labs -** [**https://microsoftlearning.github.io/mslearn-fabric/**](https://microsoftlearning.github.io/mslearn-fabric/)
 
 **Microsoft Applied Skills -** [**https://learn.microsoft.com/en-us/credentials/browse/?credential\_types=applied%20skills**](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
+
+
 
 
 **5) Links associated with questions asked in the session**
@@ -76,11 +82,14 @@ Direct Lake Performance - [**https://learn.microsoft.com/en-us/fabric/fundamenta
 
 Fabric Data Factory Activity overview - [**https://learn.microsoft.com/en-us/fabric/data-factory/activity-overview**](https://learn.microsoft.com/en-us/fabric/data-factory/activity-overview)
 
+
+
 **6) Contact Details:**
 
 Mail – [**prabhakars@cloudthat.com**](prabhakars@cloudthat.com)
 
 LinkedIn - [**https://www.linkedin.com/in/prabhakar-kumar-singh-142b691a2**](https://www.linkedin.com/in/prabhakar-kumar-singh-142b691a2)
+
 
 
 
