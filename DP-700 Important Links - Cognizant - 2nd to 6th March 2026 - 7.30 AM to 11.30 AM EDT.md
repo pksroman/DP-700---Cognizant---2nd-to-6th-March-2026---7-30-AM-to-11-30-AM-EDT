@@ -84,12 +84,19 @@ Inbound network protection in Microsoft Fabric - **https://learn.microsoft.com/e
  
 Protect workspaces by using IP firewall rules - **https://learn.microsoft.com/en-us/fabric/security/security-workspace-level-firewall-overview**
 
+Supported Git Providers -  **https://learn.microsoft.com/en-us/fabric/cicd/git-integration/intro-to-git-integration?tabs=azure-devops#:~:text=Data%20protection%20agreement-,Supported%20Git%20providers,-The%20following%20Git**
+
+
+
+Get started with Git integration - **https://learn.microsoft.com/en-us/fabric/cicd/git-integration/git-get-started?tabs=azure-devops%2CAzure%2Ccommit-to-git**
+
 
 **6) Contact Details:**
 
 Mail – [**prabhakars@cloudthat.com**](prabhakars@cloudthat.com)
 
 LinkedIn - [**https://www.linkedin.com/in/prabhakar-kumar-singh-142b691a2**](https://www.linkedin.com/in/prabhakar-kumar-singh-142b691a2)
+
 
 
 
