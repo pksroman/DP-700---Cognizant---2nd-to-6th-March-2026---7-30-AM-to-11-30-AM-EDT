@@ -13,7 +13,6 @@ Click Redeem Training Key - **3AED34206466406D**
 
 Click View Agreement and Accept the agreement and then Launch the lab
 
-=======================================================================================================
 
 **2) Recording Access:**
 
@@ -34,7 +33,7 @@ Recordings cannot be downloaded, It is view only.
 
 The recording access will be there for 30 days after the last day of the training.
 
-=======================================================================================================
+
 **3) Achievement and Course URL:**
 
 Click on **Redeem** after Signing In with your **Personal Account for Achievement URL**
@@ -43,7 +42,6 @@ Achievement Code URL: - [**https://learn.microsoft.com/en-us/users/prabhakarkuma
 
 Course URL: - [**https://learn.microsoft.com/training/courses/dp-700t00?WT.mc\_id=ilt\_partner\_webpage\_wwl\&ocid=4428290\&DCS=DEPR2620519#study-guide**](https://learn.microsoft.com/training/courses/dp-700t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=4428290&DCS=DEPR2620519#study-guide)
 
-=======================================================================================================
 
 **4) Important Links:**
 
@@ -55,7 +53,7 @@ Course URL: - [**https://learn.microsoft.com/training/courses/dp-700t00?WT.mc\_i
 
 **Microsoft Applied Skills -** [**https://learn.microsoft.com/en-us/credentials/browse/?credential\_types=applied%20skills**](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
-=================================================================================================
+
 **5) Links associated with questions asked in the session**
 
 Json Data in Azure Event Hub for Event stream tutorial - [**https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-azure-event-hubs?pivots=basic-features**](Json Data in Azure Evhttps://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-azure-event-hubs?pivots=basic-features)
@@ -70,28 +68,19 @@ Optimize Fabric Capacity - [**https://learn.microsoft.com/en-us/fabric/enterpris
 
 Delta Lake Optimization - [**https://learn.microsoft.com/en-us/azure/databricks/delta/optimizations**](https://learn.microsoft.com/en-us/azure/databricks/delta/optimizations-oss)
 
-&nbsp;
-
 PySpark Performance Tuning - [**https://spark.apache.org/docs/latest/sql-performance-tuning.html**](https://spark.apache.org/docs/latest/sql-performance-tuning.html)
-
-&nbsp;
 
 Pipeline Monitoring - [**https://learn.microsoft.com/en-us/fabric/data-factory/monitor-pipeline-runs**](https://learn.microsoft.com/en-us/fabric/data-factory/monitor-pipeline-runs)
 
 Direct Lake Performance - [**https://learn.microsoft.com/en-us/fabric/fundamentals/direct-lake-overview**](https://learn.microsoft.com/en-us/fabric/fundamentals/direct-lake-overview)
 
-&nbsp;
-
 Fabric Data Factory Activity overview - [**https://learn.microsoft.com/en-us/fabric/data-factory/activity-overview**](https://learn.microsoft.com/en-us/fabric/data-factory/activity-overview)
-
-&nbsp;
-
-================================================================================================
 
 **6) Contact Details:**
 
 Mail – [**prabhakars@cloudthat.com**](prabhakars@cloudthat.com)
 
 LinkedIn - [**https://www.linkedin.com/in/prabhakar-kumar-singh-142b691a2**](https://www.linkedin.com/in/prabhakar-kumar-singh-142b691a2)
+
 
 
